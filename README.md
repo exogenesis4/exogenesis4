@@ -1,0 +1,1 @@
+# SmartMirror_ver.1-use.pyqt5
